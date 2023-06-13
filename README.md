@@ -1,2 +1,1 @@
-# MlpResearchFrom3LevelSimulationSignal
-這是我個人用來研究MLP的模擬專案。
+本專案是用來研究MLP的模擬專案，用意在熟悉Tensorflow如何實現MLP分類方法。
